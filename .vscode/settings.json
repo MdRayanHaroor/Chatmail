@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "C:/Flutter_Proj/chat_app/build/windows/x64/extracted/firebase_cpp_sdk_windows",
+    "java.project.sourcePaths": [
+        "android"
+    ]
+}
