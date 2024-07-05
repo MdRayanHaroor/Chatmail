@@ -8,6 +8,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:chat_app/services/notification/fcm_service.dart'; // Import the FCM service
 import 'package:flutter_local_notifications/flutter_local_notifications.dart'; // Import flutter_local_notifications
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
